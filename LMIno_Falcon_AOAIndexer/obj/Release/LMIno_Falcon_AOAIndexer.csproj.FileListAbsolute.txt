@@ -1,0 +1,7 @@
+C:\Users\linas\Documents\Visual Studio 2015\Projects\LMIno_Falcon_AOAIndexer\LMIno_Falcon_AOAIndexer\bin\Release\LMIno.Falcon.AOAIndexer.exe.config
+C:\Users\linas\Documents\Visual Studio 2015\Projects\LMIno_Falcon_AOAIndexer\LMIno_Falcon_AOAIndexer\bin\Release\LMIno.Falcon.AOAIndexer.exe
+C:\Users\linas\Documents\Visual Studio 2015\Projects\LMIno_Falcon_AOAIndexer\LMIno_Falcon_AOAIndexer\bin\Release\LMIno.Falcon.AOAIndexer.pdb
+C:\Users\linas\Documents\Visual Studio 2015\Projects\LMIno_Falcon_AOAIndexer\LMIno_Falcon_AOAIndexer\bin\Release\F4SharedMem.dll
+C:\Users\linas\Documents\Visual Studio 2015\Projects\LMIno_Falcon_AOAIndexer\LMIno_Falcon_AOAIndexer\obj\Release\LMIno_Falcon_AOAIndexer.csprojResolveAssemblyReference.cache
+C:\Users\linas\Documents\Visual Studio 2015\Projects\LMIno_Falcon_AOAIndexer\LMIno_Falcon_AOAIndexer\obj\Release\LMIno.Falcon.AOAIndexer.exe
+C:\Users\linas\Documents\Visual Studio 2015\Projects\LMIno_Falcon_AOAIndexer\LMIno_Falcon_AOAIndexer\obj\Release\LMIno.Falcon.AOAIndexer.pdb
