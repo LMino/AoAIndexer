@@ -6,3 +6,6 @@ The LMIno_Falcon_AOAIndexer is the C# desktop application.
 
 ## Things that could be improved ##
 * The code for opening and closing SerialPorts.
+ 
+## Contact me ##
+* Best way to reach me is via ViperPits.org - user Linmar22
